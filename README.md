@@ -1,7 +1,8 @@
 # Final-Projects
-Text-Based SMT
+Text-Based SMT RPG
+
 Repository
-(Link to your project's public GitHub repository)
+(https://github.com/XJF77/Final-Projects.git)
 
 Description
 My project is a text-based RPG inspired by the Shin Megami Tensei Persona franchise. It aims to deliver an immersive narrative experience, featuring side quests for added depth. The project will also include a tactful battle system, requiring strategic planning and resource management.
