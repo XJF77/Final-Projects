@@ -16,7 +16,7 @@ class Mage(CharacterClass):
 
 class Fighter(CharacterClass):
     def __init__(self):
-        super().__init__(hp=120, damage=22, defense=0.2, agility=5, accuracy=70)
+        super().__init__(hp=120, damage=20, defense=0.2, agility=5, accuracy=70)
 
 
 class Rogue(CharacterClass):
@@ -35,7 +35,7 @@ class Player:
         self.base_attack = player_class.damage  # Base attack stat
         self.exp_to_level_up = 20  # Experience points required to level up
         self.exp_bar = 0  # Experience points progress bar
-        self.gold = 1000  # Starting gold
+        self.gold = 0  # Starting gold
         self.agility = player_class.agility
         self.defense = player_class.defense
         self.accuracy = player_class.accuracy 
