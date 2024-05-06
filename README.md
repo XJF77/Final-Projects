@@ -25,7 +25,4 @@ The game is designed to provide an engaging experience for players, with a focus
 - Revamp battle system maybe multiple heroes/enemies
 - Visual Assest to enrich world-building
 
-### Feedback
-We welcome feedback from players to help improve and refine the game. Please feel free to submit any suggestions, bug reports, or feature requests to the GitHub repository.
-
-Thank you for your interest in "Azeroth's Heroes: The Quest Against Pyrothor"! We hope you enjoy your adventure in the world of Azeroth.
+Thank you for your playing!!!
